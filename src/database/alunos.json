@@ -1,0 +1,47 @@
+[
+    {
+        "nome":"clenio",
+        "idade": 25
+    },
+    {
+        "nome":"carlos",
+        "idade": 28
+    },
+    {
+        "nome":"karol",
+        "idade": 26
+    },{
+        "nome":"joão",
+        "idade": 25
+    },
+    {
+        "nome":"pedro",
+        "idade": 28
+    },
+    {
+        "nome":"ricardo",
+        "idade": 26
+    },{
+        "nome":"paula",
+        "idade": 25
+    },
+    {
+        "nome":"karina",
+        "idade": 28
+    },
+    {
+        "nome":"prazeres",
+        "idade": 26
+    },{
+        "nome":"wictor",
+        "idade": 25
+    },
+    {
+        "nome":"wilker",
+        "idade": 28
+    },
+    {
+        "nome":"vanessa",
+        "idade": 26
+    }
+]
